@@ -1,0 +1,34 @@
+.app-container {
+  background-color: #fdf5f3;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.logo {
+  width: 200px;
+  height: auto;
+  margin: 1rem;
+}
+
+.title {
+  color: #2d3748;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.stats-container {
+  display: flex;
+  padding: 0.5rem;
+}
+
+.content-container {
+  padding: 1rem;
+}
